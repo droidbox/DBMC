@@ -1,9 +1,9 @@
-APP_NAME SPMC
-APP_PACKAGE com.semperpax.spmc
-COMPANY_NAME Semperpax
-WEBSITE http://spmc.semperpax.com/
-APP_EMAIL spmc.support@semperpax.com
-APP_STICKYURL http://paste.semperpax.com
+APP_NAME DBMC
+APP_PACKAGE uk.droidbox.dbmc
+COMPANY_NAME Droidbox
+WEBSITE https://droidbox.co.uk/
+APP_EMAIL kosta@droidbox.co.uk
+APP_STICKYURL https://droidbox.co.uk/
 VERSION_MAJOR 16
 VERSION_MINOR 5
 VERSION_TAG 81
